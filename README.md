@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaodosprazeres
 - 👀 I’m interested in kubernetes, python, DevOps, InfraAsCode, SRE, Ansible, Testing, Helm Charts
-- 🌱 I’m currently learning Prometheus/Grafana and PromQL
+- 🌱 I’m currently learning AWS
 - 📫 How to reach me joaodosprazeres@gmail.com
 
 <!---
